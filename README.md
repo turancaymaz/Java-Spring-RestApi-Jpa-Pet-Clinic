@@ -21,38 +21,42 @@ Bu proje Java Spring, Web-Service ve MySQL yazılımları kullanarak geçekleşt
 ## Uygulama Görselleri
 
 <p>
-<a href="https://github.com/turancaymaz/Java-Servlet-Web-Application-Blog-Project/blob/main/project-images/Blog%20projesi-page-2.jpg" target="_blank">
-<img src="https://github.com/turancaymaz/Java-Servlet-Web-Application-Blog-Project/blob/main/project-images/Blog%20projesi-page-2.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-2.jpg" target="_blank">
+<img src="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-2.jpg" width="200" style="max-width:100%;"></a>
 
 
-<a href="https://github.com/turancaymaz/Java-Servlet-Web-Application-Blog-Project/blob/main/project-images/Blog%20projesi-page-3.jpg" target="_blank">
-<img src="https://github.com/turancaymaz/Java-Servlet-Web-Application-Blog-Project/blob/main/project-images/Blog%20projesi-page-3.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-3.jpg" target="_blank">
+<img src="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-3.jpg" width="200" style="max-width:100%;"></a>
   
   
 
-<a href="https://github.com/turancaymaz/Java-Servlet-Web-Application-Blog-Project/blob/main/project-images/Blog%20projesi-page-4.jpg" target="_blank">
-<img src="https://github.com/turancaymaz/Java-Servlet-Web-Application-Blog-Project/blob/main/project-images/Blog%20projesi-page-4.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-4.jpg" target="_blank">
+<img src="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-4.jpg" width="200" style="max-width:100%;"></a>
   
 
-<a href="https://github.com/turancaymaz/Java-Servlet-Web-Application-Blog-Project/blob/main/project-images/Blog%20projesi-page-5.jpg" target="_blank">
-<img src="https://github.com/turancaymaz/Java-Servlet-Web-Application-Blog-Project/blob/main/project-images/Blog%20projesi-page-5.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-5.jpg" target="_blank">
+<img src="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-5.jpg" width="200" style="max-width:100%;"></a>
   
 
-<a href="https://github.com/turancaymaz/Java-Servlet-Web-Application-Blog-Project/blob/main/project-images/Blog%20projesi-page-6.jpg" target="_blank">
-<img src="https://github.com/turancaymaz/Java-Servlet-Web-Application-Blog-Project/blob/main/project-images/Blog%20projesi-page-6.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-6.jpg" target="_blank">
+<img src="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-6.jpg" width="200" style="max-width:100%;"></a>
   
 
-<a href="https://github.com/turancaymaz/Java-Servlet-Web-Application-Blog-Project/blob/main/project-images/Blog%20projesi-page-7.jpg" target="_blank">
-<img src="https://github.com/turancaymaz/Java-Servlet-Web-Application-Blog-Project/blob/main/project-images/Blog%20projesi-page-7.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-7.jpg" target="_blank">
+<img src="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-7.jpg" width="200" style="max-width:100%;"></a>
   
-<a href="https://github.com/turancaymaz/Java-Servlet-Web-Application-Blog-Project/blob/main/project-images/Blog%20projesi-page-8.jpg" target="_blank">
-<img src="https://github.com/turancaymaz/Java-Servlet-Web-Application-Blog-Project/blob/main/project-images/Blog%20projesi-page-8.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-8.jpg" target="_blank">
+<img src="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-8.jpg" width="200" style="max-width:100%;"></a>
   
-<a href="https://github.com/turancaymaz/Java-Servlet-Web-Application-Blog-Project/blob/main/project-images/Blog%20projesi-page-9.jpg" target="_blank">
-<img src="https://github.com/turancaymaz/Java-Servlet-Web-Application-Blog-Project/blob/main/project-images/Blog%20projesi-page-9.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-10.jpg" target="_blank">
+<img src="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-10.jpg" width="200" style="max-width:100%;"></a>
   
-<a href="https://github.com/turancaymaz/Java-Servlet-Web-Application-Blog-Project/blob/main/project-images/Blog%20projesi-page-10.jpg" target="_blank">
-<img src="https://github.com/turancaymaz/Java-Servlet-Web-Application-Blog-Project/blob/main/project-images/Blog%20projesi-page-10.jpg" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-11.jpg" target="_blank">
+<img src="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-11.jpg" width="200" style="max-width:100%;"></a>
+  
+  
+<a href="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-12.jpg" target="_blank">
+<img src="https://github.com/turancaymaz/Java-Spring-RestApi-Jpa-Pet-Clinic/blob/main/project-images/TuranCaymaaz_VetRestApi-page-12.jpg" width="200" style="max-width:100%;"></a>
   
   
 
